@@ -1,57 +1,154 @@
-# 👋 Hi, I'm Mohammad Althaf
 
-### 💻 Frontend Developer | React.js | UI/UX Designer
+<div align="center">
 
-I'm a passionate developer from Sri Lanka who loves building modern, responsive, and user-friendly web experiences.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:0F766E,100:7C3AED&height=200&section=header&text=MOHAMMAD%20ALTHAF&fontSize=42&fontColor=F8FAFC&fontAlignY=36&desc=Front-End%20Developer%20%7C%20Graphic%20Designer%20%7C%20IT%20Support%20Trainee&descSize=13&descAlignY=58&animation=fadeIn" width="100%" alt="Mohammad Althaf banner"/>
 
-- 🔭 Working on modern web applications and portfolio projects
-- 🌱 Learning advanced React.js and full-stack development
-- 💡 Interested in frontend development, UI/UX, and creative solutions
-- 🎯 Goal: Build useful digital products and collaborate with amazing people
-- 🌐 Portfolio: https://mohammadalthaf.netlify.app/
-- 🚀 Startup: https://dx7labs.netlify.app/
+<a href="https://mohammadalthaf.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-5EEAD4?style=for-the-badge&logo=googlechrome&logoColor=080B14" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/althaf-eng"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.behance.net/mohammadalthaf1"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+<a href="https://dx7labs.netlify.app/"><img src="https://img.shields.io/badge/DX7_Labs-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="DX7 Labs"/></a>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=5EEAD4&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Code+%2B+Creativity+%2B+Problem+Solving;Turning+ideas+into+responsive+interfaces;Always+learning.+Always+building." alt="Animated introduction"/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Statistics
+## 👨‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadalthaf-eng&show_icons=true&theme=tokyonight&hide_border=true)
+Hi, I'm **Mohammad Althaf**, a Junior Front-End Developer, Graphic Designer, and IT Support Trainee from Sri Lanka.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalthaf-eng&layout=compact&theme=tokyonight&hide_border=true)
+I enjoy building modern, responsive websites and creating intuitive user interfaces. My interests span front-end development, visual design, and technical problem-solving.
 
----
+- 🌐 Portfolio: [mohammadalthaf.netlify.app](https://mohammadalthaf.netlify.app/)
+- 🚀 Startup: [DX7 Labs](https://dx7labs.netlify.app/)
+- 🎨 Design Portfolio: [Behance](https://www.behance.net/mohammadalthaf1)
+- 💼 Professional Profile: [LinkedIn](https://linkedin.com/in/althaf-eng)
+- 📍 Location: Sri Lanka
 
-### 🚀 My Projects
-
-- 🌐 [Personal Portfolio](https://mohammadalthaf.netlify.app/)
-- 🏢 [DX7 Labs](https://dx7labs.netlify.app/)
-- 💻 [Explore My Repositories](https://github.com/mohammadalthaf-eng?tab=repositories)
-
----
-
-### 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/althaf-eng)
-
-[![Behance](https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/mohammadalthaf1)
-
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadalthaf-eng)
+> My goal is to combine thoughtful design with reliable development to create useful digital experiences.
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my work and connect with me.
+## ⚡ Tech Stack
+
+### Front-End Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress&theme=dark" alt="HTML CSS JavaScript React WordPress"/>
+</p>
+
+### Tools & Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop,illustrator&theme=dark" alt="Git GitHub VS Code Figma Photoshop Illustrator"/>
+</p>
+
+### Areas of Interest
+
+- 🎨 UI design and visual communication
+- 📱 Responsive web development
+- 🧩 Reusable and maintainable interfaces
+- 🛠️ IT troubleshooting and technical support
+- 🌱 Continuous learning and practical projects
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+My personal website showcasing my background, skills, and work.
+
+[**Visit Portfolio →**](https://mohammadalthaf.netlify.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💜 DX7 Labs
+
+My startup website and digital presence.
+
+[**Explore DX7 Labs →**](https://dx7labs.netlify.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 Graphic Design
+
+Explore my creative work, visual design projects, and portfolio.
+
+[**View Behance →**](https://www.behance.net/mohammadalthaf1)
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Open-Source & Code
+
+Browse my public repositories and development projects.
+
+[**Explore GitHub →**](https://github.com/mohammadalthaf-eng?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/mohammadalthaf-eng">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=mohammadalthaf-eng&show_icons=true&hide_border=true&bg_color=080B14&title_color=5EEAD4&text_color=CBD5E1&icon_color=A78BFA&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+
+<a href="https://github.com/mohammadalthaf-eng">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadalthaf-eng&layout=compact&hide_border=true&bg_color=080B14&title_color=5EEAD4&text_color=CBD5E1&langs_count=8" alt="Top programming languages"/>
+</a>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=mohammadalthaf-eng&hide_border=true&background=080B14&ring=5EEAD4&fire=A78BFA&currStreakLabel=5EEAD4&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak"/>
+
+</div>
+
+<sub>Statistics are generated by external services. Language breakdowns represent repository contents and do not necessarily indicate proficiency.</sub>
+
+---
+
+## 🎯 Current Focus
+
+- ⚛️ Improving my React.js and JavaScript skills
+- 📱 Creating responsive, accessible user interfaces
+- 🎨 Developing stronger UI/UX and graphic design skills
+- 💻 Building practical web projects for my portfolio
+- 🤝 Connecting with developers, designers, and potential clients
+
+---
+
+## 🤝 Let's Connect
+
+Have a project idea, collaboration opportunity, or interesting technical challenge? Feel free to connect with me.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/althaf-eng"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.behance.net/mohammadalthaf1"><img src="https://img.shields.io/badge/Behance-My_Creative_Work-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/></a>
+<a href="https://mohammadalthaf.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-5EEAD4?style=for-the-badge&logo=googlechrome&logoColor=080B14" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:0F766E,100:080B14&height=100&section=footer" width="100%" alt="Decorative footer"/>
+
+**Building with purpose. Designing with creativity. Growing with every project.**
+
+</div>
